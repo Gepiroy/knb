@@ -1,0 +1,7 @@
+name: knb
+main: knb.main
+version: 1337
+commands:
+  knb:
+    description: CommandEx.
+    usage: /knb <player>
